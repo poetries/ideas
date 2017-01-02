@@ -4,10 +4,8 @@
 Todo
 ---
 
-- [ ] h5-report
-- [ ] h5-music
 - [ ] todo-vue
-- [ ] todo-list
+- [ ] h5-report
 - [ ] 数据仪表盘
 - [ ] 2048
 - [ ] 俄罗斯方块
@@ -20,7 +18,8 @@ Done
 
 - [x] canvas-drawing-board
 - [x] planeGame
-
+- [x] todo-list
+- [x] h5-music
 
 License
 ---
