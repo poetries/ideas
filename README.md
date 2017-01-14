@@ -19,6 +19,7 @@ Done
 - [x] planeGame
 - [x] todo-list
 - [x] h5-music
+- [x] Animate
 
 License
 ---
