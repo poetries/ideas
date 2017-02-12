@@ -4,11 +4,8 @@
 Todo
 ---
 
-- [ ] h5-report
 - [ ] 数据仪表盘
-- [ ] vue实现饿了么
 - [ ] 爬虫
-- [ ] 阅读器
 - [ ] Django实现教育平台
 
 
@@ -20,6 +17,8 @@ Done
 - [x] todo-list
 - [x] h5-music
 - [x] Animate
+- [x] 阅读器
+- [x] vue实现饿了么
 
 License
 ---
