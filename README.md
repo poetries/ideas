@@ -6,19 +6,21 @@ Todo
 
 - [ ] 数据仪表盘
 - [ ] 爬虫
-- [ ] Django实现教育平台
-
+- [ ] Node.js+express+MongoDB 搭建个人博客
+- [ ] vue+node+express 酷狗音乐播放器
 
 Done
 ---
 
-- [x] canvas-drawing-board
-- [x] planeGame
-- [x] todo-list
-- [x] h5-music
-- [x] Animate
-- [x] 阅读器
-- [x] vue实现饿了么
+- [多功能绘图板] (https://github.com/poetries/drawing-board)
+- [planeGame] (https://github.com/poetries/plane)
+- [todo-list] (https://github.com/poetries/todo-list)
+- [FM-music-player] (https://github.com/poetries/music-player)
+- [Animate运动框架] (https://github.com/poetries/Animate)
+- [阅读器webapp](https://github.com/poetries/webapp-reader)
+- [vue实现饿了么] (https://github.com/poetries/vue-ele)
+- [Django实现教育平台]  (https://github.com/poetries/Django-shop)
+- [打造移动端书城] (https://github.com/poetries/bookstore)
 
 License
 ---
