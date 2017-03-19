@@ -8,6 +8,7 @@ Todo
 - [ ] 爬虫
 - [ ] Node.js+express+MongoDB 搭建个人博客
 - [ ] vue+node+express 酷狗音乐播放器
+- [ ] 计算器设计
 - [ ] 实现100特效,创建常见UI组件库
 
 Done
